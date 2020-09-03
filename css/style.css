@@ -883,23 +883,23 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Call To Action Section
 --------------------------------*/
 
-#call-to-action {
+#enloquestamos {
   background: #081e5b;
   background-size: cover;
   padding: 40px 0;
 }
 
-#call-to-action .cta-title {
+#enloquestamos .cta-title {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
 }
 
-#call-to-action .cta-text {
+#enloquestamos .cta-text {
   color: #fff;
 }
 
-#call-to-action .cta-btn {
+#enloquestamos .cta-btn {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
   font-size: 16px;
@@ -913,7 +913,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
-#call-to-action .cta-btn:hover {
+#enloquestamos .cta-btn:hover {
   background: #50d8af;
   border: 3px solid #50d8af;
 }
@@ -1201,4 +1201,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   #contact #google-map {
     margin-top: 20px;
   }
+}
+
+/* KAKTUS GROUP */
+#kaktus_logo_main {
+  width:10vw;
+  transition:0.3s;
+}
+#kaktus_logo_main:hover {
+  width:10.8vw;
 }
